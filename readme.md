@@ -1,24 +1,46 @@
-<h1>Olá, eu sou o João Castro!</h1>
+# Olá, mundo! Eu sou o João Castro 👋
 
- <img src="https://mauriciospark.github.io/coreIcons/fotos/html.png" height="45" alt="html logo" />|
- <img src="https://mauriciospark.github.io/coreIcons/fotos/python.png" height="45" alt="python logo" />|
-  <!--<img src="https://mauriciospark.github.io/coreIcons/fotos/aegis.png" height="45" alt="aegis logo" />|
-  <img src="https://mauriciospark.github.io/coreIcons/fotos/aiven.png" height="45" alt="aiven logo" />|
-  <img src="https://mauriciospark.github.io/coreIcons/fotos/actionscript.png" height="45" alt="actionscript logo" />|
-  <img src="https://mauriciospark.github.io/coreIcons/fotos/ada.png" height="45" alt="ada logo" />|
-  <img src="https://mauriciospark.github.io/coreIcons/fotos/adonis.png" height="45" alt="adonis logo" />|
-  <img src="https://mauriciospark.github.io/coreIcons/fotos/advplformatter.png" height="45"
-    alt="advplformatter logo" />|
-  <img src="https://mauriciospark.github.io/coreIcons/fotos/advplinclude.png" height="45" alt="advplinclude logo" />|
-  <img src="https://mauriciospark.github.io/coreIcons/fotos/advplptm.png" height="45" alt="advplptm logo" />|
-  <img src="https://mauriciospark.github.io/coreIcons/fotos/advpltlpp.png" height="45" alt="advpltlpp logo" />|
-  <img src="https://mauriciospark.github.io/coreIcons/fotos/almalinux.png" height="45" alt="almalinux logo" />|
-  <img src="https://mauriciospark.github.io/coreIcons/fotos/alpine.png" height="45" alt="alpine logo" />|
-  <img src="https://mauriciospark.github.io/coreIcons/fotos/aix.png" height="45" alt="aix logo" />|
-  <img src="https://mauriciospark.github.io/coreIcons/fotos/akv2k8s.png" height="45" alt="akv2k8s logo" />|
-  <img src="https://mauriciospark.github.io/coreIcons/fotos/alloy.png" height="45" alt="alloy logo" />|
-  <img src="https://mauriciospark.github.io/coreIcons/fotos/altinity.png" height="45" alt="altinity logo" />|
-  <img src="https://mauriciospark.github.io/coreIcons/fotos/amdrocm.png" height="45" alt="amdrocm logo" />|-->
-  
-![](https://github-readme-stats.shion.dev/api?username=JVictorCastro-22&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=JVictorCastro-22&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=JVictorCastro-22&color=007ec6&style=flat-square" alt="Profile Views" />
+  <a href="https://github.com/JVictorCastro-22?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositórios-181717?style=flat-square&logo=github" alt="GitHub Repositories"></a>
+</p>
+
+💻 **Desenvolvedor de Software & Game Creator** apaixonado por transformar lógica em aplicações funcionais e criar experiências interativas marcantes. Atualmente cursando **Análise e Desenvolvimento de Sistemas** na Universidade Estácio, unindo uma base sólida em Administração e TI com código limpo e resolução de problemas.
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+#### Linguagens & Banco de Dados
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+
+#### Web & Desenvolvimento
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+#### Game Dev, Design & Ferramentas
+[![GameMaker](https://img.shields.io/badge/GameMaker-000000?style=for-the-badge&logo=gamemaker&logoColor=white)](https://gamemaker.io/)
+[![Aseprite](https://img.shields.io/badge/Aseprite-4A3B5C?style=for-the-badge&logo=aseprite&logoColor=white)](https://www.aseprite.org/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/)
+
+---
+
+### 🚀 O que estou construindo / Projetos em Destaque
+
+*   **Sistema de Gestão de Farmácia (`sistema_farmacia`):** Aplicação web desenvolvida com Python (Flask) e MySQL para controle otimizado de estoque e rotinas administrativas.
+*   **Penguin Odyssey:** Um jogo de plataforma 2D indie desenvolvido no GameMaker, com foco em mecânicas fluidas e pixel art autoral criada no Aseprite.
+*   **Castro Play:** Projeto de criação de conteúdo voltado para retrojogos, game dev e análise de clássicos dos games nas redes sociais.
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=JVictorCastro-22&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=JVictorCastro-22&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</div>

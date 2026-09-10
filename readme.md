@@ -35,12 +35,3 @@
 *   **Sistema de Gestão de Farmácia (`sistema_farmacia`):** Aplicação web desenvolvida com Python (Flask) e MySQL para controle otimizado de estoque e rotinas administrativas.
 *   **Penguin Odyssey:** Um jogo de plataforma 2D indie desenvolvido no GameMaker, com foco em mecânicas fluidas e pixel art autoral criada no Aseprite.
 *   **Castro Play:** Projeto de criação de conteúdo voltado para retrojogos, game dev e análise de clássicos dos games nas redes sociais.
-
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=JVictorCastro-22&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=JVictorCastro-22&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</div>
